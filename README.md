@@ -1,6 +1,6 @@
-# Olá devs, meu nome é lucas ⭐ | Hi devs, my name is Lucas ⭐
+# Olá devs, meu nome é lucas ⭐
 
-## Bem vindos ao meu perfil do GitHub 🤝 | Welcome to my GitHub profile 🤝
+## Bem vindos ao meu perfil do GitHub 🤝
 
 - 🔭 Atualmente estou cursando Ciêcias da Computação pela UNINOVE (Uiniversidade nove de julho).
 - 🌱 Atualmente estou aprendendo Data Science.
