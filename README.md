@@ -2,7 +2,7 @@
 
 ## Bem vindos ao meu perfil do GitHub 🤝
 
-- 🔭 Atualmente estou cursando Ciêcias da Computação pela UNINOVE (Uiniversidade nove de julho).
+- 🔭 Atualmente estou cursando Ciêcias da Computação pela UNINOVE (Universidade nove de julho).
 - 🌱 Atualmente estou aprendendo Data Science.
 - 👯 Estou procurando colaborar repositórios públicos para meu desenvolvimento e aprendizado em geral.
 - 💻 Atualmente ajudo na administração de uma cidade chamada Realistic Roleplay do jogo Grand Theft Auto San Andreas.
