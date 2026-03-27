@@ -5,9 +5,9 @@
 - 🔭 Atualmente estou cursando Ciêcias da Computação pela UNINOVE (Universidade nove de julho).
 - 🌱 Atualmente estou aprendendo Data Science.
 - 👯 Estou procurando colaborar repositórios públicos para meu desenvolvimento e aprendizado em geral.
-- 💻 Atualmente ajudo na administração de uma cidade chamada Realistic Roleplay do jogo Grand Theft Auto San Andreas.
+- 💻 Colaborei na administração de uma cidade chamada Realistic Roleplay do jogo Grand Theft Auto San Andreas (Gta:sa).
 - ⚡ Curiosidade: Adoro conhecimentos na área sociológica e filosófica.
-- 🧠 Uma frase que eu adoro é: "Quando a educação não é libertadora, o sonho do oprimido é se tornar o opressor" ~ Paulo Freire
+- 🧠 Uma frase que eu adoro é: "Aqueles que tiverem paciência para me ensinar terei vontade e sede de aprender"
   
 ◮ ―――――――――――――――――――――――――――――――――――――――――――――――――― ◭
 
@@ -16,14 +16,14 @@
 - 👯 I'm looking to collaborate on public repositories to improve my skills and general learning.
 - 💻 Currently help manage a city called Realistic Roleplay in the game Grand Theft Auto: San Andreas.
 - ⚡ Fun fact: I love knowledge in the fields of sociology and philosophy.
-- 🧠 A quote I love is: "When education is not liberating, the dream of the oppressed is to become the oppressor." ~ Paulo Freire
+- 🧠 A quote I love is: "I am eager to learn and grow from those who have the patience to mentor me"
 
   
 ## 🛠️ Ferramentas e Tecnologias | Tools & Technologies
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>                                                                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35"/>         
 
 ## 📚 Estou aprendendo | I'm learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"> <img loading="lazy" src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" width="35" height="35">
 
 ## 📊 Minha análise pessoal | My personal analysis
 <div>
